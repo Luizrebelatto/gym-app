@@ -32,7 +32,13 @@ declare module "styled-components/native" {
             gradient02: {
                 color01: string;
                 color02: string;
-            }
+            },
+            white: string
+        },
+        fonts: {
+            regular: string;
+            bold: string;
+            semiBold: string;
         }
     }
 }

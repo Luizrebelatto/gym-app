@@ -29,6 +29,12 @@ export default {
         gradient02: {
             color01: "#92A3FD",
             color02: "#9DCEFF"
-        }
+        },
+        white: "#FFFFFF"
+    },
+    fonts: {
+        regular: "Montserrat_400Regular",
+        bold: "Montserrat_700Bold",
+        semiBold: "Montserrat_600SemiBold"
     }
 }
